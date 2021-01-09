@@ -1,1 +1,3 @@
 # BelajarGit
+
+ini kodingan andi
